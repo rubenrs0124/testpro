@@ -10,7 +10,8 @@ import { Observable } from 'rxjs';
 })
 export class AppComponent {
   private apiUrl = 'http://localhost:4201';
-  private repoUrl = '/?api.github.com/repos/izuzak/pmrpc/commits';
+  // private repoUrl = '/?api.github.com/repos/izuzak/pmrpc/commits';
+  private repoUrl = '/?api.github.com/repos/rubenrs0124/testpro/commits';
   
   title = 'CrossRoads_TestProject';
   commits : Observable<Commit[]>;
