@@ -1,4 +1,3 @@
-
 const express = require('express');
 const node_fetch = require('node-fetch');
 const app = express();
@@ -62,5 +61,5 @@ app.get('/', (req: any, res: any) =>{
 
 })
 app.listen(4201, '127.0.0.1', function(){
-    console.log('Server now is listening on 4201');
+    console.log('ServerAPI now is listening on 4201');
 })
