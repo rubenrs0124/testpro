@@ -1,27 +1,20 @@
+Hello, This is Ruben and this is my project.
+I hope you like this.
+
 # CrossRoadsTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+And as a backend ts-node version 8.6.2, typescript version 3.7.4.
 
-## Development server
+## Running backend server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Backend server is located in 'Server' directory, please navigate to the server directory and run 'yarn serve'. 
+Navigate to 'http://localhost:4201/'. The backend api will be working.
 
-## Code scaffolding
+## Running frontend server
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run 'ng serve' or 'yarn serve' for a frontend angular server.
+Run `ng serve` or 'yarn serve' for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+If there is a problem, please let me know.
+It's working well, on my pc.
